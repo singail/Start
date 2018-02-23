@@ -477,8 +477,9 @@ footer a {
 	
 	.news__title {
 		font-size: 1.5em;
-    	line-height: 1.5em;
+    		line-height: 1.5em;
 	}
+	
 	.hero {
 		height: 150vh;
 	}
