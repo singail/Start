@@ -469,6 +469,9 @@ footer a {
 	.hero {
 		height: 70vh;
 	}
+	.news__title {
+		font-size: 1.5em;
+	}
 }
 
 @media screen and (max-width: 400px) {
