@@ -436,10 +436,6 @@ footer a {
 }
 
 @media screen and (max-width: 600px) {
-	main {
-		font-size: 1.2em;
-	}
-	
 	.toggle {
 		display: block;
 	}
@@ -463,6 +459,10 @@ footer a {
 		padding: 20px;
 	}
 	
+	body {
+		font-size: 1em;
+	}
+	
 	.snippet__thumbnail {
 		width: 100%;
 	}
@@ -471,6 +471,11 @@ footer a {
 	}
 	.news__title {
 		font-size: 1.5em;
+    	line-height: 1.5em;
+	}
+	
+	p {
+		line-height: 30px;
 	}
 }
 
@@ -481,7 +486,11 @@ footer a {
 	
 	.news__title {
 		font-size: 1.5em;
-    		line-height: 1.5em;
+    	line-height: 1.5em;
+	}
+	
+	.top-news__item {
+		line-height: 30px;	
 	}
 	
 	.hero {
