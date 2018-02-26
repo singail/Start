@@ -467,7 +467,7 @@ footer a {
 		width: 100%;
 	}
 	.hero {
-		height: 70vh;
+		height: 500px;
 	}
 	.news__title {
 		font-size: 1.5em;
@@ -494,7 +494,7 @@ footer a {
 	}
 	
 	.hero {
-		height: 150vh;
+		height: 700px;
 	}
 }
 
